@@ -26,7 +26,6 @@ The framework integrates:
 
 - Strong cross-dataset generalization ability  
 - Robust performance under low-SNR conditions  
-- Lightweight yet efficient architecture  
 - Fast inference speed with low GPU memory usage
 
 ---
