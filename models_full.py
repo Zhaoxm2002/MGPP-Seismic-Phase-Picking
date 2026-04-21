@@ -12,7 +12,7 @@ try:
     MAMBA_AVAILABLE = True
 except ImportError:
     MAMBA_AVAILABLE = False
-    print("⚠️  Warning: mamba-ssm not installed. Please install with:")
+    print("Warning: mamba-ssm not installed. Please install with:")
     print("   pip install mamba-ssm causal-conv1d")
     print("   Falling back to placeholder implementation.")
 
